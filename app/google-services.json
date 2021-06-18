@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586891179255",
+    "project_id": "authentication-70a64",
+    "storage_bucket": "authentication-70a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586891179255:android:fbd88c01f5ac502b578ff2",
+        "android_client_info": {
+          "package_name": "com.tbcacademy.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586891179255-lkbo8qddjhrmtviolctabo87hhmi4kle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tbcacademy.authentication",
+            "certificate_hash": "bec001e971ad25b7cd829381238926daa9d2b90c"
+          }
+        },
+        {
+          "client_id": "586891179255-j0ngj4ii0k4c7274cmbpgg1hsi7viem6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARagP-N04WpJJ5qwbS2GT0glRuADspOZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586891179255-j0ngj4ii0k4c7274cmbpgg1hsi7viem6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
